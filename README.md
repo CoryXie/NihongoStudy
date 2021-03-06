@@ -1,0 +1,2 @@
+# NihongoStudy
+自己学习日语过程中用JumanDict保存的记录
